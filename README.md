@@ -1,6 +1,6 @@
 # ocaml-cordova-plugin-datepicker-example
 
-This is an example of the binding to the *cordova-plugin-datepickerr*. See the
+This is an example of the binding to the *cordova-plugin-datepicker*. See the
 binding [here](https://github.com/dannywillems/ocaml-cordova-plugin-datepicker).
 
 ## How to compile?
