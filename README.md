@@ -1,5 +1,7 @@
 # ocaml-cordova-plugin-datepicker-example
 
+[![Build Status](https://travis-ci.org/dannywillems/ocaml-cordova-plugin-datepicker-example.svg?branch=master)](https://travis-ci.org/dannywillems/ocaml-cordova-plugin-datepicker-example)
+
 This is an example of the binding to the *cordova-plugin-datepicker*. See the
 binding [here](https://github.com/dannywillems/ocaml-cordova-plugin-datepicker).
 
